@@ -1,3 +1,5 @@
 pandas
 Requests
 streamlit
+pickle
+pickleshare
